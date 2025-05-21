@@ -1,2 +1,2 @@
-# IMC
-Calculo do IMC em Kotlin através do Android Studio
+# Desenvolvimento Mobile
+Repositório dedicado aos projetos de desenvolvimento de apps através do Android Studio
